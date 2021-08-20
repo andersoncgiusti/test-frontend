@@ -569,6 +569,102 @@ section.three h3{
     margin-left: 40px;
     width: 360px;
     height: 176px;
-    background: #FFFFFF;;
+    background: #FFFFFF;
+}
 
+.sessao3{
+    width: 100%; 
+}
+
+.part1{    
+    float: left;
+    width: 50%;
+    padding:140px 0 90px 0;
+    background: white;
+}
+
+.part2{
+    float: left;
+    width: 50%;
+    padding:140px 0 90px 0;
+    background: white;
+}
+
+.wraper-part1{
+    max-width: 600px;
+    float: left;
+    margin-left: 40px;
+    padding:0 30px;
+}
+
+.wraper-part1 h2{
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 80px;
+    line-height: 96px;
+    letter-spacing: 0.1em;
+    color: #D5A368;       
+}
+
+.wraper-part1 p{
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    color: #000000; 
+}
+
+.part2 hr{
+    width: 100px;
+    height: 3px;
+    background: #D4D4D4;
+}
+
+.wraper-part2{
+    float: left;
+    width: 90%;
+}
+
+#ap{
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    letter-spacing: 0.25em;
+    color: #000000;
+}
+
+#dat{
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 58px;
+    letter-spacing: 0.05em;
+    color: #D5A368;
+}
+
+#text{
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 41px;
+    letter-spacing: 0.1em;
+    color: #000000;
+}
+
+#text1{
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 35px;
+    letter-spacing: 0.1em;
+    color: #000000;
 }
